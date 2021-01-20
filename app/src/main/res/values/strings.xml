@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="movie_amp_tv_show"><![CDATA[Movie & Tv Show]]></string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_bookmark">Bookmark %s</string>
+    <string name="tv_show">Tv show</string>
+    <string name="movie">Movie</string>
+    <string name="judul">Judul</string>
+    <string name="release_date">Release %s</string>
+    <string name="release">Release</string>
+    <string name="share_text">Segera tonton %s di www.themoviedb.org</string>
+    <string name="description">Deskripsi</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="lihat_bookmark">Lihat Bookmark</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+</resources>
